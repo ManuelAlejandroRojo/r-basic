@@ -25,4 +25,5 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-Esta es una prueba sobre cómo se modifica el GitHub a través de Desktop
+## Esta es una prueba sobre cómo se modifica el GitHub a través de Desktop
+## Esta nueva línea será para ver que se esté modificando bien
